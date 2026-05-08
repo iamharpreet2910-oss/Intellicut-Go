@@ -1,0 +1,7 @@
+__pycache__/
+Temp_Data/
+Output_Intellicut/
+*.mp4
+*.wav
+*.mp3
+*.png
